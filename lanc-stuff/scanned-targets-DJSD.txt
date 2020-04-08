@@ -141,3 +141,77 @@
 
 /--------------------------------------------------------\
 /--------------------------------------------------------\
+
+[*] Elapsed time: 38.0100 seconds
+
+[*] 104.220.192.60 Could not verify exploitability:
+ - 104.220.192.60:80 http exploits/routers/3com/officeconnect_rce
+ - 104.220.192.60:80 http exploits/routers/shuttle/915wm_dns_change
+ - 104.220.192.60:80 http exploits/routers/cisco/secure_acs_bypass
+ - 104.220.192.60:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 104.220.192.60:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 104.220.192.60:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 104.220.192.60:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 104.220.192.60:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 104.220.192.60:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 104.220.192.60:80 http exploits/routers/billion/billion_5200w_rce
+ - 104.220.192.60:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 104.220.192.60 Could not confirm any vulnerablity
+
+[-] 104.220.192.60 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] Elapsed time: 38.0200 seconds
+
+[*] 71.201.124.177 Could not verify exploitability:
+ - 71.201.124.177:80 http exploits/routers/3com/officeconnect_rce
+ - 71.201.124.177:80 http exploits/routers/shuttle/915wm_dns_change
+ - 71.201.124.177:80 http exploits/routers/cisco/secure_acs_bypass
+ - 71.201.124.177:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 71.201.124.177:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 71.201.124.177:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 71.201.124.177:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 71.201.124.177:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 71.201.124.177:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 71.201.124.177:80 http exploits/routers/billion/billion_5200w_rce
+ - 71.201.124.177:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 71.201.124.177 Could not confirm any vulnerablity
+
+[-] 71.201.124.177 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
