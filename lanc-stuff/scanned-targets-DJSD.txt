@@ -1,4 +1,3 @@
-[*] Elapsed time: 38.0400 seconds
 
 [*] 173.185.199.170 Could not verify exploitability:
 
@@ -23,9 +22,6 @@
 /--------------------------------------------------------\
 /--------------------------------------------------------\
 
-
-[*] Elapsed time: 38.0500 seconds
-
 [*] 98.227.53.158 Could not verify exploitability:
  - 98.227.53.158:80 http exploits/routers/3com/officeconnect_rce
  - 98.227.53.158:80 http exploits/routers/shuttle/915wm_dns_change
@@ -48,9 +44,6 @@
 /--------------------------------------------------------\
 /--------------------------------------------------------\
 
-
-[*] Elapsed time: 37.9900 seconds
-
 [*] 73.177.54.125 Could not verify exploitability:
  - 73.177.54.125:80 http exploits/routers/3com/officeconnect_rce
  - 73.177.54.125:80 http exploits/routers/shuttle/915wm_dns_change
@@ -71,9 +64,6 @@
 
 /--------------------------------------------------------\
 /--------------------------------------------------------\
-
-
-[*] Elapsed time: 29.9800 seconds
 
 [*] 104.243.164.215 Could not verify exploitability:
  - 104.243.164.215:80 http exploits/routers/3com/officeconnect_rce
@@ -96,9 +86,6 @@
 /--------------------------------------------------------\
 /--------------------------------------------------------\
 
-
-[*] Elapsed time: 38.0100 seconds
-
 [*] 98.124.93.200 Could not verify exploitability:
  - 98.124.93.200:80 http exploits/routers/3com/officeconnect_rce
  - 98.124.93.200:80 http exploits/routers/shuttle/915wm_dns_change
@@ -118,8 +105,6 @@
 
 /--------------------------------------------------------\
 /--------------------------------------------------------\
-
-[*] Elapsed time: 38.0100 seconds
 
 [*] 24.137.230.143 Could not verify exploitability:
  - 24.137.230.143:80 http exploits/routers/3com/officeconnect_rce
@@ -142,8 +127,6 @@
 /--------------------------------------------------------\
 /--------------------------------------------------------\
 
-[*] Elapsed time: 38.0100 seconds
-
 [*] 104.220.192.60 Could not verify exploitability:
  - 104.220.192.60:80 http exploits/routers/3com/officeconnect_rce
  - 104.220.192.60:80 http exploits/routers/shuttle/915wm_dns_change
@@ -164,8 +147,6 @@
 /--------------------------------------------------------\
 /--------------------------------------------------------\
 
-[*] Elapsed time: 38.0200 seconds
-
 [*] 71.201.124.177 Could not verify exploitability:
  - 71.201.124.177:80 http exploits/routers/3com/officeconnect_rce
  - 71.201.124.177:80 http exploits/routers/shuttle/915wm_dns_change
@@ -182,6 +163,280 @@
 [-] 71.201.124.177 Could not confirm any vulnerablity
 
 [-] 71.201.124.177 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 74.118.116.204 Could not verify exploitability:
+ - 74.118.116.204:80 http exploits/routers/3com/officeconnect_rce
+ - 74.118.116.204:80 http exploits/routers/shuttle/915wm_dns_change
+ - 74.118.116.204:80 http exploits/routers/cisco/secure_acs_bypass
+ - 74.118.116.204:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 74.118.116.204:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 74.118.116.204:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 74.118.116.204:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 74.118.116.204:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 74.118.116.204:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 74.118.116.204:80 http exploits/routers/billion/billion_5200w_rce
+ - 74.118.116.204:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 74.118.116.204 Could not confirm any vulnerablity
+
+[-] 74.118.116.204 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 71.222.231.251 Could not verify exploitability:
+ - 71.222.231.251:80 http exploits/routers/3com/officeconnect_rce
+ - 71.222.231.251:80 http exploits/routers/shuttle/915wm_dns_change
+ - 71.222.231.251:80 http exploits/routers/cisco/secure_acs_bypass
+ - 71.222.231.251:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 71.222.231.251:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 71.222.231.251:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 71.222.231.251:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 71.222.231.251:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 71.222.231.251:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 71.222.231.251:80 http exploits/routers/billion/billion_5200w_rce
+ - 71.222.231.251:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 71.222.231.251 Could not confirm any vulnerablity
+
+[-] 71.222.231.251 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 24.27.75.180 Could not verify exploitability:
+ - 24.27.75.180:80 http exploits/routers/3com/officeconnect_rce
+ - 24.27.75.180:80 http exploits/routers/shuttle/915wm_dns_change
+ - 24.27.75.180:80 http exploits/routers/cisco/secure_acs_bypass
+ - 24.27.75.180:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 24.27.75.180:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 24.27.75.180:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 24.27.75.180:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 24.27.75.180:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 24.27.75.180:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 24.27.75.180:80 http exploits/routers/billion/billion_5200w_rce
+ - 24.27.75.180:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 24.27.75.180 Could not confirm any vulnerablity
+
+[-] 24.27.75.180 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 69.246.60.74 Could not verify exploitability:
+ - 69.246.60.74:80 http exploits/routers/3com/officeconnect_rce
+ - 69.246.60.74:80 http exploits/routers/shuttle/915wm_dns_change
+ - 69.246.60.74:80 http exploits/routers/cisco/secure_acs_bypass
+ - 69.246.60.74:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 69.246.60.74:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 69.246.60.74:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 69.246.60.74:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 69.246.60.74:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 69.246.60.74:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 69.246.60.74:80 http exploits/routers/billion/billion_5200w_rce
+ - 69.246.60.74:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 69.246.60.74 Could not confirm any vulnerablity
+
+[-] 69.246.60.74 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 99.122.207.248 Could not verify exploitability:
+ - 99.122.207.248:80 http exploits/routers/3com/officeconnect_rce
+ - 99.122.207.248:80 http exploits/routers/shuttle/915wm_dns_change
+ - 99.122.207.248:80 http exploits/routers/cisco/secure_acs_bypass
+ - 99.122.207.248:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 99.122.207.248:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 99.122.207.248:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 99.122.207.248:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 99.122.207.248:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 99.122.207.248:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 99.122.207.248:80 http exploits/routers/billion/billion_5200w_rce
+ - 99.122.207.248:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 99.122.207.248 Could not confirm any vulnerablity
+
+[-] 99.122.207.248 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 68.238.254.233 Could not verify exploitability:
+ - 68.238.254.233:80 http exploits/routers/3com/officeconnect_rce
+ - 68.238.254.233:80 http exploits/routers/shuttle/915wm_dns_change
+ - 68.238.254.233:80 http exploits/routers/cisco/secure_acs_bypass
+ - 68.238.254.233:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 68.238.254.233:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 68.238.254.233:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 68.238.254.233:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 68.238.254.233:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 68.238.254.233:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 68.238.254.233:80 http exploits/routers/billion/billion_5200w_rce
+ - 68.238.254.233:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 68.238.254.233 Could not confirm any vulnerablity
+
+[-] 68.238.254.233 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 68.83.236.194 Could not verify exploitability:
+ - 68.83.236.194:80 http exploits/routers/3com/officeconnect_rce
+ - 68.83.236.194:80 http exploits/routers/shuttle/915wm_dns_change
+ - 68.83.236.194:80 http exploits/routers/cisco/secure_acs_bypass
+ - 68.83.236.194:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 68.83.236.194:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 68.83.236.194:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 68.83.236.194:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 68.83.236.194:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 68.83.236.194:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 68.83.236.194:80 http exploits/routers/billion/billion_5200w_rce
+ - 68.83.236.194:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 68.83.236.194 Could not confirm any vulnerablity
+
+[-] 68.83.236.194 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 80.203.1.218 Could not verify exploitability:
+ - 80.203.1.218:80 http exploits/routers/3com/officeconnect_rce
+ - 80.203.1.218:80 http exploits/routers/shuttle/915wm_dns_change
+ - 80.203.1.218:80 http exploits/routers/cisco/secure_acs_bypass
+ - 80.203.1.218:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 80.203.1.218:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 80.203.1.218:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 80.203.1.218:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 80.203.1.218:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 80.203.1.218:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 80.203.1.218:80 http exploits/routers/billion/billion_5200w_rce
+ - 80.203.1.218:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 80.203.1.218 Could not confirm any vulnerablity
+
+[-] 80.203.1.218 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+[*] 24.189.0.157 Could not verify exploitability:
+ - 24.189.0.157:80 http exploits/routers/3com/officeconnect_rce
+ - 24.189.0.157:80 http exploits/routers/shuttle/915wm_dns_change
+ - 24.189.0.157:80 http exploits/routers/cisco/secure_acs_bypass
+ - 24.189.0.157:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 24.189.0.157:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 24.189.0.157:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 24.189.0.157:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 24.189.0.157:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 24.189.0.157:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 24.189.0.157:80 http exploits/routers/billion/billion_5200w_rce
+ - 24.189.0.157:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 24.189.0.157 Could not confirm any vulnerablity
+
+[-] 24.189.0.157 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
 
 /--------------------------------------------------------\
 /--------------------------------------------------------\
