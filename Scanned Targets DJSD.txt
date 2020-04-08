@@ -19,3 +19,102 @@
 
 
 [-] 173.185.199.170 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+[*] Elapsed time: 38.0500 seconds
+
+[*] 98.227.53.158 Could not verify exploitability:
+ - 98.227.53.158:80 http exploits/routers/3com/officeconnect_rce
+ - 98.227.53.158:80 http exploits/routers/shuttle/915wm_dns_change
+ - 98.227.53.158:80 http exploits/routers/cisco/secure_acs_bypass
+ - 98.227.53.158:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 98.227.53.158:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 98.227.53.158:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 98.227.53.158:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 98.227.53.158:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 98.227.53.158:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 98.227.53.158:80 http exploits/routers/billion/billion_5200w_rce
+ - 98.227.53.158:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 98.227.53.158 Could not confirm any vulnerablity
+
+
+[-] 98.227.53.158 Could not find default credentials
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+[*] Elapsed time: 37.9900 seconds
+
+[*] 73.177.54.125 Could not verify exploitability:
+ - 73.177.54.125:80 http exploits/routers/3com/officeconnect_rce
+ - 73.177.54.125:80 http exploits/routers/shuttle/915wm_dns_change
+ - 73.177.54.125:80 http exploits/routers/cisco/secure_acs_bypass
+ - 73.177.54.125:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 73.177.54.125:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 73.177.54.125:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 73.177.54.125:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 73.177.54.125:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 73.177.54.125:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 73.177.54.125:80 http exploits/routers/billion/billion_5200w_rce
+ - 73.177.54.125:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 73.177.54.125 Could not confirm any vulnerablity
+
+[-] 73.177.54.125 Could not find default credentials
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+[*] Elapsed time: 29.9800 seconds
+
+[*] 104.243.164.215 Could not verify exploitability:
+ - 104.243.164.215:80 http exploits/routers/3com/officeconnect_rce
+ - 104.243.164.215:80 http exploits/routers/shuttle/915wm_dns_change
+ - 104.243.164.215:80 http exploits/routers/cisco/secure_acs_bypass
+ - 104.243.164.215:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 104.243.164.215:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 104.243.164.215:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 104.243.164.215:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 104.243.164.215:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 104.243.164.215:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 104.243.164.215:80 http exploits/routers/billion/billion_5200w_rce
+ - 104.243.164.215:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 104.243.164.215 Could not confirm any vulnerablity
+
+[-] 104.243.164.215 Could not find default credentials
+
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
+
+
+[*] Elapsed time: 38.0100 seconds
+
+[*] 98.124.93.200 Could not verify exploitability:
+ - 98.124.93.200:80 http exploits/routers/3com/officeconnect_rce
+ - 98.124.93.200:80 http exploits/routers/shuttle/915wm_dns_change
+ - 98.124.93.200:80 http exploits/routers/cisco/secure_acs_bypass
+ - 98.124.93.200:23 custom/tcp exploits/routers/cisco/catalyst_2960_rocem
+ - 98.124.93.200:80 http exploits/routers/dlink/dsl_2640b_dns_change
+ - 98.124.93.200:80 http exploits/routers/dlink/dsl_2730b_2780b_526b_dns_change
+ - 98.124.93.200:80 http exploits/routers/dlink/dsl_2740r_dns_change
+ - 98.124.93.200:1900 custom/udp exploits/routers/dlink/dir_815_850l_rce
+ - 98.124.93.200:80 http exploits/routers/asus/asuswrt_lan_rce
+ - 98.124.93.200:80 http exploits/routers/billion/billion_5200w_rce
+ - 98.124.93.200:80 http exploits/routers/netgear/dgn2200_dnslookup_cgi_rce
+
+[-] 98.124.93.200 Could not confirm any vulnerablity
+
+[-] 98.124.93.200 Could not find default credentials
+
+/--------------------------------------------------------\
+/--------------------------------------------------------\
